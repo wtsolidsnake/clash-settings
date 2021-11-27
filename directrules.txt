@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,dianying.im,DIRECT
+  - DOMAIN-SUFFIX,dyxs14.com,DIRECT
+  - DOMAIN-SUFFIX,myp2pch.net,DIRECT
